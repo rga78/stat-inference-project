@@ -1,6 +1,9 @@
 
 ## Investigating The Effect of Vitamin C on Tooth Growth in Guinea Pigs 
 
+**Rob Alderman**   
+**March, 2015**
+
 ### Abstract
 
 Vitamin C supplements were given to guinea pigs to determine the effect
